@@ -1,0 +1,9 @@
+go to flask minimal app website and copy the content.
+
+npm init -y
+npm i tailwindcss
+npx tailwindcss init 
+
+npx tailwindcss -i ./static/input.css -o ./static/CSS/main.css --watch
+
+pip install flask-pymongo
